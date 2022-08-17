@@ -56,6 +56,7 @@ dbuser
 appkey
 appkeysecret
 application_key
+passkey
 appsecret
 appspot
 auth_token
@@ -97,6 +98,7 @@ connectionstring
 ssh
 ssh2_auth_password
 sshpass
+oauth
 jwt_client_secret_key
 jwt_lookup_secert_key
 jwt_password
@@ -109,6 +111,7 @@ jwt_xmpp_secert_key
 secret_bearer
 secret_key_base
 secret_token
+ldap
 ldap_password
 ldap_username
 login
@@ -137,6 +140,7 @@ bashrc+password
 .mlab.com+password
 WFClient+Password+extension:ica
 bucket_password
+bash_history
 bucketeer_aws_access_key_id
 bucketeer_aws_secret_access_key
 extension:bat
