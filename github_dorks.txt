@@ -164,3 +164,8 @@ extension:sql+mysql+dump
 extension:sql+mysql+dump+password
 extension:yaml+mongolab.com
 extension:zsh
+extension:bak
+extension:db
+extension:mdf
+extension:pdf
+extension:zip
