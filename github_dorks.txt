@@ -95,6 +95,7 @@ mysql
 mysql+password
 mysql_root_password
 connectionstring
+django
 ssh
 ssh2_auth_password
 sshpass
